@@ -1,4 +1,4 @@
 #!/bin/bash
 
 apt-get update -y;
-apt-get install -y openjdk-11-jdk-headless
+apt-get install -y default-jdk
